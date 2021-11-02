@@ -18,3 +18,8 @@
 
 * Devise a method for the computer to determine if code was broken with minimal human guidance.
 
+
+
+Implementation Notes
+In order to accomplish a certain task you’ll need access to a corpus of English words.
+A search on something like python list of english words should get you going.
